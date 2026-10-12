@@ -48,7 +48,15 @@
       "percentile": 0
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "veteran",
+      "from": "2",
+      "to": "3",
+      "at": "2026-10-12T23:36:38.809Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -132,8 +140,8 @@
     },
     {
       "id": "veteran",
-      "tier": 2,
-      "value": 4
+      "tier": 3,
+      "value": 5
     },
     {
       "id": "berserker",
@@ -179,6 +187,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-12",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-11",
         "cleared": 0,
         "total": 3
@@ -212,5 +225,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-11T20:57:18.037Z"
+  "syncedAt": "2026-10-12T23:36:38.809Z"
 }
