@@ -48,15 +48,7 @@
       "percentile": 0
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "veteran",
-      "from": "2",
-      "to": "3",
-      "at": "2026-10-12T23:36:38.809Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -187,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-20",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-19",
         "cleared": 0,
         "total": 3
@@ -260,5 +257,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-19T21:30:10.389Z"
+  "syncedAt": "2026-10-20T20:33:20.415Z"
 }
